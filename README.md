@@ -25,9 +25,6 @@ feiyiwenhua/
 │   ├── 功能模块图-插入版.docx  # Word版功能模块图
 │   └── ...                 # 其他文档
 │
-├── 04-工具脚本/             # 辅助工具和脚本
-│   └── create-module-diagram.js  # 生成Word文档脚本
-│
 └── README.md               # 本文件
 ```
 
